@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proyectofactura/static/css/main.17ff50ac.css",
+    "main.js": "/proyectofactura/static/js/main.cad90703.js",
+    "static/js/453.615f72f9.chunk.js": "/proyectofactura/static/js/453.615f72f9.chunk.js",
+    "index.html": "/proyectofactura/index.html",
+    "main.17ff50ac.css.map": "/proyectofactura/static/css/main.17ff50ac.css.map",
+    "main.cad90703.js.map": "/proyectofactura/static/js/main.cad90703.js.map",
+    "453.615f72f9.chunk.js.map": "/proyectofactura/static/js/453.615f72f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ff50ac.css",
+    "static/js/main.cad90703.js"
+  ]
+}
